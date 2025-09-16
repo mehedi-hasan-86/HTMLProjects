@@ -1,7 +1,7 @@
 # Md. Mehedi Hasan
 
 <p align="center">
-  <img src="mypicture.jpg" width="150"><br>
+  <img src="mYpicture.jpg" width="150"><br>
   <b>Competitive Programmer | Web Developer</b>
 </p>
 
